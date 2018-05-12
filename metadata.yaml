@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Freas, Kelly
     alias: Freas, Frank Kelly
-    birthdate: &id001 1922
+    birthdate: 1922
     deathdate: 2005
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
@@ -16,11 +16,13 @@ creator:
   author:
     agent_name: Edmondson, G. C.
     alias: Edmondson y Cotton, Jose Mario Garry Ordonez
-    birthdate: *id001
+    birthdate: 1922
     deathdate: 1995
     gutenberg_agent_id: '26019'
     url: http://www.gutenberg.org/2009/agents/26019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23762#Blessed-Are-the-Meek
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-12-07'
 gutenberg_type: Text
